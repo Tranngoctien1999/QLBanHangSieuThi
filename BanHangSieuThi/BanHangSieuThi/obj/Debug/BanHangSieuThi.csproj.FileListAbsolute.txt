@@ -1,0 +1,80 @@
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe.config
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.pdb
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csprojAssemblyReference.cache
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formaddnhanvien.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhanvien.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhap_hang.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmAddNhanvien.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmEditNhanvien.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmKhachhang.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmMain.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frombanhang.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.fromdangnhap.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.huongdan.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.thongke.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.Properties.Resources.resources
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.GenerateResource.cache
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CoreCompileInputs.cache
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CopyComplete
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.exe
+D:\1_1\1\Thuc_tap_nhom\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.pdb
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe.config
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.pdb
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csprojAssemblyReference.cache
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formaddnhanvien.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhanvien.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhap_hang.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmAddNhanvien.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmEditNhanvien.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmKhachhang.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmMain.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frombanhang.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.fromdangnhap.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.huongdan.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.thongke.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.Properties.Resources.resources
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.GenerateResource.cache
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CoreCompileInputs.cache
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CopyComplete
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.exe
+F:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.pdb
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe.config
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.pdb
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csprojAssemblyReference.cache
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formaddnhanvien.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhanvien.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhap_hang.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmAddNhanvien.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmEditNhanvien.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmKhachhang.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmMain.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frombanhang.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.fromdangnhap.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.huongdan.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.thongke.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.Properties.Resources.resources
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.GenerateResource.cache
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CoreCompileInputs.cache
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CopyComplete
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.exe
+E:\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.pdb
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe.config
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.pdb
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhanvien.resources
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhap_hang.resources
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmKhachhang.resources
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmMain.resources
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frombanhang.resources
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.fromdangnhap.resources
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.thongke.resources
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.Properties.Resources.resources
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.GenerateResource.cache
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CoreCompileInputs.cache
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CopyComplete
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.exe
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.pdb
+D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csprojAssemblyReference.cache
