@@ -33,20 +33,7 @@ namespace BanHangSieuThi.GUI
             gunaTxtSdt.Text = "";
             gunaTxtTdn.Text = "";
         }
-        public void unLockALL()
-        {
-
-            gunaTxtTen.Enabled = true;
-            gunaTxtDiachi.Enabled = true;
-            gunaTxtSdt.Enabled = true;
-            gunaTxtTdn.Enabled = true;
-            gunabtnSave.Enabled = true;
-        }
-        private void btnNhanvien_Click(object sender, EventArgs e)
-        {
-            unLockALL();
-
-        }
+        
         SqlConnection connection;
         SqlCommand cmd;
         ConnectString connectStr = new ConnectString();
