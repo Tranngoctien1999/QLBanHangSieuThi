@@ -171,7 +171,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightGreen;
-            this.BackgroundImage = global::BanHangSieuThi.Properties.Resources.page_bg_blur02;
+//            this.BackgroundImage = global::BanHangSieuThi.Properties.Resources.page_bg_blur02;
             this.ClientSize = new System.Drawing.Size(867, 481);
             this.Controls.Add(this.panel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
