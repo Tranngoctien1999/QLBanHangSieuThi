@@ -35,7 +35,7 @@ namespace BanHangSieuThi.GUI
         }
         public void unLockALL()
         {
-           
+
             gunaTxtTen.Enabled = true;
             gunaTxtDiachi.Enabled = true;
             gunaTxtSdt.Enabled = true;
@@ -45,7 +45,7 @@ namespace BanHangSieuThi.GUI
         private void btnNhanvien_Click(object sender, EventArgs e)
         {
             unLockALL();
-           
+
         }
         SqlConnection connection;
         SqlCommand cmd;
