@@ -78,3 +78,19 @@ D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanH
 D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.exe
 D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.pdb
 D:\Kỳ 1 năm 4\thutap_banhangsieuthi\Phanmenbanhangsieuthi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csprojAssemblyReference.cache
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhanvien.resources
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.formnhap_hang.resources
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmKhachhang.resources
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frmMain.resources
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.frombanhang.resources
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.fromdangnhap.resources
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.GUI.thongke.resources
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.GenerateResource.cache
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.exe
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.pdb
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe.config
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.exe
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\bin\Debug\BanHangSieuThi.pdb
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.Properties.Resources.resources
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\Ha_Noi\Documents\GitHub\QLBanHangSieuThi\BanHangSieuThi\BanHangSieuThi\obj\Debug\BanHangSieuThi.csproj.CopyComplete
