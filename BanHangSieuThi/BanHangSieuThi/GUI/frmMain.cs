@@ -35,7 +35,10 @@ namespace BanHangSieuThi.GUI
 
         private void btnNhanvien_Click(object sender, EventArgs e)
         {
-            
+            formnhanvien a = new formnhanvien();
+            this.Hide();
+            a.ShowDialog();
+            this.Show();
         }
 
         private void btnBanhang_Click(object sender, EventArgs e)
